@@ -1,5 +1,9 @@
 # makefun-x-reposts-02 — entry by @muskabc
 
+[![make.fun · makefun-x-reposts-02](https://make.fun/badge/makefun-x-reposts-02.svg)](https://make.fun/bounty/makefun-x-reposts-02?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
+[![rank](https://make.fun/badge/makefun-x-reposts-02/muskabc/makefun-x-reposts-02/rank.svg)](https://make.fun/bounty/makefun-x-reposts-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
+[![reward](https://make.fun/badge/makefun-x-reposts-02/muskabc/makefun-x-reposts-02/reward.svg)](https://make.fun/bounty/makefun-x-reposts-02?utm_source=github&utm_medium=readme&utm_campaign=makefun-x-reposts-02)
+
 My entry for the make.fun bounty
 ["Get the most reposts and likes on make.fun's newest X posts"](https://make.fun/bounty/makefun-x-reposts-02):
 posts of my own on X, each one a quote of, or a direct reply to, a different
